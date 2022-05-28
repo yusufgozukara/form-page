@@ -8,7 +8,7 @@
 
 body{
     height: 100vh;
-    background: url(./Ekran\ görüntüsü\ 2022-04-19\ 094437.jpg);
+    background: url(./bgimage.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
